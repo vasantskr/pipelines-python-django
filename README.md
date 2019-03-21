@@ -4,6 +4,7 @@ For information on how to use this repository, see [Python](https://docs.microso
 
 | Example | Build status |
 |---------|--------------|
+| [![Build Status](https://dev.azure.com/vasanthakumarsekar0193/DemoProject/_apis/build/status/vasantskr.pipelines-python-django?branchName=master)](https://dev.azure.com/vasanthakumarsekar0193/DemoProject/_build/latest?definitionId=1&branchName=master) |
 | Build (YAML) | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/python-django/python)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=13) |
 | Build image and push to Docker Hub (YAML) | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/python-django/python-dockerhub)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=14) |
 | Build image and push to Azure Container Registry (YAML) | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/python-django/python-acr)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=15) |
